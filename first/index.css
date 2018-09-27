@@ -1,0 +1,22 @@
+
+body{
+    background: lightgray;
+  }
+  header{
+    height: 190px;
+    width: 100%;
+    background: rgb(49, 49, 49);
+  }
+  section{
+    height: 725px ;
+    width: 700px;
+    background:white;
+    margin: 0px auto;
+  }
+  footer{
+    height: 100px;
+    width: 700px;
+    background:  rgb(49, 49, 49);
+    margin-right: 129px;
+    margin-left: 129px;
+  }
